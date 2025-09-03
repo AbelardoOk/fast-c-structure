@@ -3,13 +3,14 @@
   "name": "fast-c-structure",
   "displayName": "Fast C Structure",
   "description": "Quickly create the basic structure of c, with the import of stdio.h and main function.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.103.0"
   },
   "categories": [
     "Snippets"
   ],
+  "icon": "icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/AbelardoOk/fast-c-structure"
