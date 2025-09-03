@@ -1,7 +1,7 @@
 {
   "name": "fast-c-structure",
-  "displayName": "fast-c-structure",
-  "description": "",
+  "displayName": "Fast C Structure",
+  "description": "Quickly create the basic structure of c, with the import of stdio.h and main function.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.103.0"
