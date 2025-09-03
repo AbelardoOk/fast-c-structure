@@ -3,8 +3,10 @@
 import * as vscode from "vscode";
 
 const template = `#include <stdio.h>
+
 int main(){
 	printf("Hello World!\\n");
+	
 	return 0;
 }`;
 
