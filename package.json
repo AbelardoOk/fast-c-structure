@@ -14,8 +14,15 @@
   "contributes": {
     "commands": [
       {
-        "command": "fast-c-structure.helloWorld",
-        "title": "Hello World"
+        "command": "cSnippetStarter.createTemplate",
+        "title": "Create C Structure"
+      }
+    ],
+    "keybindings": [
+      {
+        "command": "cSnippetStarter.createTemplate",
+        "key": "ctrl+.",
+        "when": "editorLangId == c"
       }
     ]
   },
